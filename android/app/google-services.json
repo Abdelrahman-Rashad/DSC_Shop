@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "429370266737",
+    "project_id": "dsc-shop-132cc",
+    "storage_bucket": "dsc-shop-132cc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:429370266737:android:c759c300999941c0cff7d0",
+        "android_client_info": {
+          "package_name": "com.example.shop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "429370266737-oe2luum3e95ptpb84iko7ic1q2dkklvh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCn5CzykR6A5zhhDspjA_QhkmdJnfD8gCo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "429370266737-oe2luum3e95ptpb84iko7ic1q2dkklvh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
